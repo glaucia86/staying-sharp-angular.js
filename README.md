@@ -1,4 +1,4 @@
-# Staying Sharp With Angular.Js
+# Curso - Staying Sharp With Angular.Js by CodeSchool
 
 Curso de Angular.Js do CodeSchool. Essa é a segunda parte do curso de Angular. Porém tratam de temas mais complexos sobre o tema.
 
